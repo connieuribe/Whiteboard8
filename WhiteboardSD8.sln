@@ -21,15 +21,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeFunctionTest", "TimeFun
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeFunction", "TimeFunction\TimeFunction.csproj", "{7425FBEF-29DD-4BC2-B20F-ACD3D2C507A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometry", "Geometry\Geometry.csproj", "{0955376C-C7F5-4100-8708-6F76AA958ED4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Geometry", "Geometry\Geometry.csproj", "{0955376C-C7F5-4100-8708-6F76AA958ED4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryTest", "GeometryTest\GeometryTest.csproj", "{4B75291C-0F2A-4AB9-A0F3-037523D70365}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryTest", "GeometryTest\GeometryTest.csproj", "{4B75291C-0F2A-4AB9-A0F3-037523D70365}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStringTest", "ReverseStringTest\ReverseStringTest.csproj", "{8A261E24-01A5-432D-90D1-F75D17BBAF9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseStringTest", "ReverseStringTest\ReverseStringTest.csproj", "{8A261E24-01A5-432D-90D1-F75D17BBAF9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primes", "Primes\Primes.csproj", "{558E8DD2-DE49-4CF6-BD72-41B40E6E3CA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Primes", "Primes\Primes.csproj", "{558E8DD2-DE49-4CF6-BD72-41B40E6E3CA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesTest", "PrimesTest\PrimesTest.csproj", "{234C0BFD-C161-4B38-A8C4-F21D988A6478}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimesTest", "PrimesTest\PrimesTest.csproj", "{234C0BFD-C161-4B38-A8C4-F21D988A6478}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloTest", "HelloTest\HelloTest.csproj", "{DEDD1BE1-3FAA-42E7-80CA-03B7282C001D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{234C0BFD-C161-4B38-A8C4-F21D988A6478}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{234C0BFD-C161-4B38-A8C4-F21D988A6478}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{234C0BFD-C161-4B38-A8C4-F21D988A6478}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDD1BE1-3FAA-42E7-80CA-03B7282C001D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDD1BE1-3FAA-42E7-80CA-03B7282C001D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDD1BE1-3FAA-42E7-80CA-03B7282C001D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDD1BE1-3FAA-42E7-80CA-03B7282C001D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
